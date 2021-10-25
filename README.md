@@ -1,11 +1,11 @@
 ### Date created
-The repository of this project was created on 25th October 2021
+**The repository of this project was created on 25th October 2021**
 
 ### Project Title
-Explore US Bikeshare Data
+**Explore US Bikeshare Data**
 
 ### Description
-This project is a python script that provides statistical analysis of the Bikeshare data according to user's input.
+**This project is a python script that provides statistical analysis of the Bikeshare data according to user's input.**
 * It took into consideration columns that were contained in chicago and new york datasets but not in washington dataset
 * It gave the user the opportunity of selecting information of their choice
 * It also followed good python guidelines by:
