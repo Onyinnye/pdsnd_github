@@ -1,17 +1,20 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+The repository of this project was created on 25th October 2021
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is a python script that provides statistical analysis of the Bikeshare data according to user's input.
+* It took into consideration columns that were contained in chicago and new york datasets but not in washington dataset
+* It gave the user the opportunity of selecting information of their choice
+* It also followed good python guidelines by:
+    * Defining functions to prevent code repetition
+    * Writing a docstring to explain what each function does
 
 ### Files used
-Include the files used
+Data from the chicago, new york city and washington dataset
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+[Stackoverflow](http://stackoverflow.com) was a very useful resource during this project, also my fellow scholars of the Blacks in Technology Scholarship community were of great help to completing this project
 
